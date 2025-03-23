@@ -1,0 +1,18 @@
+[
+    {
+        "label": "D365 Workflow Configuration",
+        "message": "Can you provide detailed steps for configuring the custom workflow engine in our D365 system, as outlined in the documentation, including prerequisites and essential settings?"
+    },
+    {
+        "label": "Module Integration Guidelines",
+        "message": "What are the documented best practices for integrating third-party modules with our D365 environment, and where can I find these guidelines?"
+    },
+    {
+        "label": "Connectivity Troubleshooting",
+        "message": "Where is the troubleshooting guide for resolving connectivity issues in our D365 deployment, including network configuration tips and common error fixes?"
+    },
+    {
+        "label": "System Upgrade Procedures",
+        "message": "What are the step-by-step upgrade procedures for our D365 solution, including rollback mechanisms and post-upgrade validation processes, as detailed in the documentation?"
+    }
+]
